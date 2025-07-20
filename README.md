@@ -101,20 +101,6 @@ def etl_data():
 etl_data()
 ```
 
----
-
-## 📈 Pipeline do Projeto
-
-A imagem abaixo representa o pipeline ETL deste projeto:
-
-```
-[CSV Files] → [Transformações com Pandas] → [Carga no PostgreSQL]
-```
-
-> ![ETL Pipeline](./assets/etl_pipeline.png)
-
----
-
 ## 🔒 Segurança
 
 > ⚠️ **Evite hardcoding de credenciais em produção!**
