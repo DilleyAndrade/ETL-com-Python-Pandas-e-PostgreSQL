@@ -48,8 +48,8 @@ Este projeto implementa um pipeline de ETL (Extract, Transform, Load) simples e 
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/etl-postgres-pipeline.git
-cd etl-postgres-pipeline
+git clone https://github.com/DilleyAndrade/ETL-com-Python-Pandas-e-PostgreSQL.git
+cd ETL-com-Python-Pandas-e-PostgreSQL
 ```
 
 ### 2. Crie um ambiente virtual (opcional, mas recomendado)
