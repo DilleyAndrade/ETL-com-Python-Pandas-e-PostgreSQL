@@ -136,8 +136,8 @@ A imagem abaixo representa o pipeline ETL deste projeto:
 
 Dilley Andrade
 Engenheiro de Dados | SQL | ETL | Python — Focado em soluções de dados, ETL, BI e engenharia de dados.
-(81) 98663-2609 | dilleyandrade@gmail.com
-linkedin.com/in/dilleyandrade | github.com/DilleyAndrade 
+(81) 98663-2609 | dilleyandrade@gmail.com |
+http://linkedin.com/in/dilleyandrade | http://github.com/DilleyAndrade 
 
 ---
 
